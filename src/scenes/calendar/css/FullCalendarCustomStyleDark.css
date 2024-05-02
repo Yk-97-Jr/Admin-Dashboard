@@ -1,0 +1,64 @@
+.fc {
+    /* border:2px solid #351446; */
+}
+.fc-view {
+    background: #072225;
+}
+.fc-button {
+    color: #95eec4;
+}
+.fc-col-header-cell {
+    background: #351446;
+    color: #caaff7;
+}
+.fc-daygrid-day-number {
+    color: rgb(122, 250, 250);
+    font-size: 1.1rem;
+}
+.fc .fc-list-day-cushion {
+    background-color: #0a1630;
+    color: #e1a6f8;
+}
+.fc-list-event {
+    background: #0b4658;
+    color: rgb(148, 238, 175);
+}
+.fc-list-event:hover {
+    background: #0b4658;
+    color: #072225;
+}
+.fc-list-event {
+    background: #063442;
+    color: hsl(125, 92%, 67%);
+}
+.fc-list-event-title:hover {
+    font-weight: 600;
+}
+.fc-timegrid-slot {
+    background: #0c1f29;
+}
+.fc-scrollgrid-section {
+    color: #95eec4;
+}
+.fc-popover-body {
+    background: #0a3f42;
+    color: whitesmoke;
+    max-height: 9.2rem;
+    overflow-y: auto !important;
+}
+.fc-popover-header {
+    color: #0c1f29;
+}
+.fc-toolbar-title {
+    color: #9effce;
+}
+.fc-icon {
+    color: #b7ffcd;
+}
+.fc-popover-close {
+    color: red;
+    font-weight: 900;
+}
+.fc-today-button {
+    color: #aef3c3;
+}

@@ -1,0 +1,51 @@
+.fc-view {
+    background: #d0ffea;
+}
+.fc-daygrid-day-number {
+    color: rgb(15, 153, 107);
+    font-size: 1.1rem;
+}
+.fc-col-header-cell {
+    background: #dcccf7;
+    color: rgb(167, 34, 167);
+}
+.fc .fc-list-day-cushion {
+    background-color: #aed2f3;
+    color: #175996;
+}
+.fc-list-event {
+    background: #f2e0ff;
+    color: hsl(290, 88%, 44%);
+}
+.fc-list-event:hover {
+    color: #d82c8b;
+}
+.fc-list-event-title:hover {
+    font-weight: 600;
+}
+.fc-timegrid-slot {
+    background: #9be4d8;
+}
+.fc-scrollgrid-section {
+    color: #068aac;
+    font-weight: bold;
+}
+.fc-popover-body {
+    background: #0a3f42;
+    color: whitesmoke;
+    max-block-size: 11.7rem;
+    overflow-y: auto !important;
+}
+.fc-popover-header {
+    color: #0c1f29;
+}
+.fc-toolbar-title {
+    color: #035aac;
+}
+.fc-icon {
+    color: #aef3c3;
+}
+.fc-popover-close {
+    color: red;
+    font-weight: 900;
+}
